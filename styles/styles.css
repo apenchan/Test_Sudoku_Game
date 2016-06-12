@@ -1,0 +1,16 @@
+#gamecontainer {
+	width: 90px;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+.row{
+	clear: both;
+	margin-left: 35%;
+
+}
+.box {
+	float: left;
+	height: 30px;
+	width: 30px;
+	border: 1px solid black;
+}
