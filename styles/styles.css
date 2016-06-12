@@ -1,11 +1,11 @@
-#gamecontainer {
-	width: 90px;
+#game-container {
+	width: 300px;
 	margin: 0 auto;
-	padding-top: 20px;
+	padding-top: 15%;
 }
 .row{
 	clear: both;
-	margin-left: 35%;
+	overflow: hidden;
 
 }
 .box {
